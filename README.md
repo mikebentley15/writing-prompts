@@ -13,3 +13,7 @@ To suggest more ideas for prompts, please visit the [future-prompts](future-prom
 ## Reviewing
 
 We have not yet decided how reviewing will work.  But the reviews will either be via email or perhaps placed inside of a folder called `reviews`.
+
+## Markdown Help
+
+For those who are unfamiliar with how to write Markdown, [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a cheatsheet.  Of course, you will not need to do anything too complicated such as tables or figures, as these are merely writing exercises.
