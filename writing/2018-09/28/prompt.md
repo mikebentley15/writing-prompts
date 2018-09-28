@@ -1,4 +1,4 @@
-# Writing Prompt: 2018-09-20
+# Writing Prompt: 2018-09-28
 
 _Expository Prompt #126 from 501 Writing Prompts_
 
