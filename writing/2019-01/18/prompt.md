@@ -1,4 +1,4 @@
-# Writing Prompt: 2018-10-02
+# Writing Prompt: 2019-01-18
 
 _Narrative Prompt #251 from 501 Writing Prompts_
 
